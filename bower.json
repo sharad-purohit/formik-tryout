@@ -17,5 +17,8 @@
   ],
   "dependencies": {
     "px-dropdown": "^4.7.6"
+  },
+  "devDependencies": {
+    "px-starter-kit-design": "^1.0.3"
   }
 }
